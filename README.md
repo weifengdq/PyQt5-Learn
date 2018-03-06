@@ -14,11 +14,27 @@ Learn PyQt5
 - [tab](#tab)  
 - [horizontal_layout](#horizontallayout)  
 - [grid_layout](#gridlayout)  
-
+- [input_dialog](#inputdialog)  
+- [file_dialog](#filedialog)  
+- [image](#image)  
+- [image](#pixel)  
+- [color_dialog](#colordialog)  
+- [color](#color)  
+- [drag_drop](#dragdrop)  
+- [font_dialog](#fontdialog)  
+- [matplotlib](#matplotlib)  
+- [browser](#browser)  
+- [treeview](#treeview)  
+- [directory_view](#directoryview)  
+- [form_layout](#formlayout)  
+- [box_layout](#boxlayout)  
+- [wizard](#wizard)  
 
 ## reference
-https://pythonspot.com/pyqt5/  
+[pythonspot](https://pythonspot.com/pyqt5/)    
+[PyQt5中文教程](http://code.py40.com/pyqt5/), or [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)  
 [Qt中QMainWindow, QWidget以及QDialog的区别和选择](http://blog.csdn.net/Mengwei_Ren/article/details/71305885)  
+
 
 
 ## window  
@@ -125,3 +141,112 @@ Sub menus are added with addMenu(name).
 `python3 input_dialog.py`  
 
 ![input_dialog](/Assets/input_dialog.png)  
+
+
+
+## file_dialog  
+`python3 file_dialog.py`  
+
+![file_dialog](/Assets/file_dialog.png)  
+
+
+
+## image
+`python3 image.py`  
+
+![image](/Assets/image.png)  
+
+
+
+## pixel
+`python3 pixel.py`  
+
+![pixel](/Assets/pixel.png)   
+
+
+
+
+## color_dialog
+`python3 color_dialog.py`  
+
+![color_dialog](/Assets/color_dialog.png)   
+
+
+
+## color
+`python3 color.py`  
+
+![color](/Assets/color.png)  
+
+
+
+## drag_drop
+`python3 drag_drop.py`  
+
+![drag_drop](/Assets/drag_drop.png)  
+
+
+
+## font_dialog
+`python3 font_dialog.py`  
+
+![font_dialog](/Assets/font_dialog.png)  
+
+
+
+## matplotlib
+Firstly, install matplotlib: `pip3 install matplotlib`  
+
+`python3 plot.py`  
+
+![matplotlib](/Assets/matplotlib.png)  
+
+
+## browser  
+
+>The **QtWebEngineWidgets** module contains classes for a Chromium based implementation of a web browser. This supercedes the **QtWebKit** module and provides better and up-to-date support for HTML, CSS and JavaScript features. However it also consumes more resources and doesn’t give direct access to the network stack and the HTML document via Python APIs.
+
+
+`python3 browser.py`  
+
+![browser](/Assets/browser.png)
+
+
+
+## treeview
+`python3 treeview.py`  
+
+![treeview](/Assets/treeview.png)  
+
+
+
+## directory_view  
+`python3 directory_view.py`  
+
+![directory_view](/Assets/directory_view.png)  
+
+
+
+
+## form_layout
+`python3 form_layout.py`  
+
+![form_layout](/Assets/form_layout.png)  
+
+
+
+## box_layout
+`python3 box_layout.py`   
+
+![box_layout](/Assets/box_layout.png)   
+
+
+
+---
+
+
+
+## wizard
+`python3 wizard.py`  
+
+![wizard](/Assets/wizard.png)  
